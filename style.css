@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=La+Belle+Aurore&family=Lobster&family=Poppins:wght@300;700;800&family=Roboto:wght@300;400;900&family=Source+Sans+Pro:wght@300;400&display=swap');
+body{
+    padding-top: 55px;
+}
+
+.images{
+    height: 580px;
+    background-position: center;
+    background-size: cover;
+}
+.about{
+    background-color: #f2f2f2;
+    height: 98vh;
+   
+}
+.ayraç{
+    max-width: 500px;
+    border: none;
+    border-top: 3px solid #0c0c0c;
+    margin: 45px auto;
+    margin-bottom: 40px; 
+}
+
+.leaf{
+    font-size: 50px;
+    position: relative;
+    top: -75px;
+    border: 1px none;
+    padding: 5px 10px;
+    background-color: #f2f2f2;
+   
+}
+h1{
+    font-family: 'Poppins', sans-serif;;
+}
+
+.leaf1{
+    font-size: 50px;
+    position: relative;
+    top: -75px;
+    border: 1px none;
+    padding: 5px 10px;
+    background-color: white;
+   
+}
+.card img{
+    height: 200px;
+    
+}
+.galeri{
+    background-color: #f2f2f2;
+}
